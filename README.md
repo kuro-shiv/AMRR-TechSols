@@ -38,7 +38,7 @@ This is a simple two-page web application developed for the AMRR TechSols intern
 
 ---
 
-##📁 Project Structure
+## 📁 Project Structure
 
 
 AMRR-TechSols/
@@ -54,40 +54,37 @@ AMRR-TechSols/
 
 ---
 
-📦 How to Run Locally
+## 📦 How to Run Locally
 
 1. Clone the repository:
----
+2. 
 git clone https://github.com/kuro-shiv/AMRR-TechSols.git
 cd AMRR-TechSols
----
+
 2. If it's a static project (HTML/CSS/JS only):
-
-Open index.html (View Items page) or add.html (Add Items page) directly in your browser.
-
-Or run a local server using Python:
+Open index.html (View Items page) or add.html (Add Items page) directly in your browser. Or run a local server using Python:
 
 python -m http.server 8000
 
-
 Then visit:
-
 
 http://localhost:8000
 
 3.If using Node.js/Express backend:
 
-Install dependencies
+*Install dependencies
 npm install
-Start the server:
+
+*Start the server:
 npm start
-Open your browser and go to:
+
+*Open your browser and go to:
 http://localhost:3000
 
 
 
 ---
-📜 License
+## 📜 License
 
 
 ---
@@ -96,7 +93,7 @@ Let me know if you'd like to add badges, deployment instructions (e.g., for Verc
 
 
 ---
-👨‍💻 Author
+## 👨‍💻 Author
 Shivam Dubey
 GitHub: @kuro-shiv
 Project submitted as part of the AMRR TechSols Internship Assignment
