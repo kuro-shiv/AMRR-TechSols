@@ -12,7 +12,7 @@ This is a simple two-page web application developed for the AMRR TechSols intern
 
 ### 📥 Add Item Page (`Add Items`)
 - Allows user to submit:
-  - **Item Name**![Screenshot 2025-06-22 033111](https://github.com/user-attachments/assets/ebcd0e30-1ab5-4ee9-9ad8-5a3a5f1f8192)
+  - **Item Name**
 
   - **Item Type** (e.g., Shirt, Pant, Shoes, Sports Gear, etc.)
   - **Item Description**
@@ -42,7 +42,7 @@ This is a simple two-page web application developed for the AMRR TechSols intern
 ## 📁 Project Structure
 
 
-![Uploading Screenshot 2025-06-22 033111.png…]()
+![Screenshot 2025-06-22 033111](https://github.com/user-attachments/assets/ebcd0e30-1ab5-4ee9-9ad8-5a3a5f1f8192)
 
 
 
