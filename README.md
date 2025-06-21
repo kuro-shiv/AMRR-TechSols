@@ -1,1 +1,102 @@
-##AMRR TechSols
+# AMRR TechSols – Item Listing Web App
+
+This is a simple two-page web application developed for the AMRR TechSols internship assignment. The application allows users to add new items and view all submitted items with detailed information.
+
+## 🔗 Live Demo
+
+[GitHub Repository](https://github.com/kuro-shiv/AMRR-TechSols/tree/master)
+
+---
+
+## 📄 Features
+
+### 📥 Add Item Page (`Add Items`)
+- Allows user to submit:
+  - **Item Name**
+  - **Item Type** (e.g., Shirt, Pant, Shoes, Sports Gear, etc.)
+  - **Item Description**
+  - **Cover Image**
+  - **Additional Images**
+- Displays a success message:  
+  ✅ `Item successfully added` on successful submission.
+
+### 👁️ View Items Page (`View Items`)
+- Lists all items with:
+  - **Item Name**
+  - **Cover Image**
+- Clicking on any item opens a **modal/lightbox** with:
+  - Full **item description**
+  - All **images displayed in a carousel**
+
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap (for modal & carousel)
+- **Backend**: Node.js with Express *(Optional enhancement: can use localStorage or JSON for static simulation)*
+- **Storage**: Currently uses a temporary in-memory/static list *(can be upgraded to a database)*
+
+---
+
+##📁 Project Structure
+
+
+AMRR-TechSols/
+│
+├── public/                # Static assets (images, CSS, JS)
+│   ├── index.html         # View Items page
+│   └── add.html           # Add Items page
+│
+├── server.js              # Express server (optional)
+├── data.json              # JSON storage (optional enhancement)
+└── README.md              # Project documentation
+
+
+---
+
+📦 How to Run Locally
+
+1. Clone the repository:
+---
+git clone https://github.com/kuro-shiv/AMRR-TechSols.git
+cd AMRR-TechSols
+---
+2. If it's a static project (HTML/CSS/JS only):
+
+Open index.html (View Items page) or add.html (Add Items page) directly in your browser.
+
+Or run a local server using Python:
+
+python -m http.server 8000
+
+
+Then visit:
+
+
+http://localhost:8000
+
+3.If using Node.js/Express backend:
+
+Install dependencies
+npm install
+Start the server:
+npm start
+Open your browser and go to:
+http://localhost:3000
+
+
+
+---
+📜 License
+
+
+---
+
+Let me know if you'd like to add badges, deployment instructions (e.g., for Vercel/Netlify), or environment setup details.
+
+
+---
+👨‍💻 Author
+Shivam Dubey
+GitHub: @kuro-shiv
+Project submitted as part of the AMRR TechSols Internship Assignment
