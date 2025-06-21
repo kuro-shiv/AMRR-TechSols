@@ -103,8 +103,7 @@ AMRR-TechSols/
 ---
 ## 📜 License
 
-
-Let me know if you'd like to add badges, deployment instructions (e.g., for Vercel/Netlify), or environment setup details.
+&copy; 2025 Shivam Kumar Dubey. All rights reserved.
 
 
 ---
