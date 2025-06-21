@@ -58,9 +58,10 @@ AMRR-TechSols/
 
 1. Clone the repository:
       git clone https://github.com/kuro-shiv/AMRR-TechSols.git
+   
       cd AMRR-TechSols
 
-2. If it's a static project (HTML/CSS/JS only):
+3. If it's a static project (HTML/CSS/JS only):
    Open index.html (View Items page) or add.html (Add Items page) directly in your browser. Or run a local server using Python:
 
       python -m http.server 8000
@@ -69,7 +70,7 @@ AMRR-TechSols/
 
       http://localhost:8000
 
-3. If using Node.js/Express backend:
+4. If using Node.js/Express backend:
 
    * Install dependencies
        npm install
