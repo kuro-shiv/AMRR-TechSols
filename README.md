@@ -48,21 +48,28 @@ This is a simple two-page web application developed for the AMRR TechSols intern
 
 AMRR-TechSols/
 
-│
 
-├── public/                # Static assets (images, CSS, JS)
+index.html              # View Items page
 
-│   ├── index.html         # View Items page
+add.html               # Add Items page
 
-│   └── add.html           # Add Items page
+item-detail.html
 
-│
+CSS
 
-├── server.js              # Express server (optional)
+JS
 
-├── data.json              # JSON storage (optional enhancement)
+node_modules
 
-└── README.md              # Project documentation
+server.js              # Express server (optional)
+
+item.json
+
+package.json              # JSON storage (optional enhancement)
+
+package-lock.json 
+
+README.md              # Project documentation
 
 
 
