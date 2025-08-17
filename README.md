@@ -5,7 +5,7 @@ A simple two-page web application for the AMRR TechSols internship assignment. U
 ## 🔗 Live Demo
 
 - [GitHub Repository](https://github.com/kuro-shiv/AMRR-TechSols/tree/master)
-- [Hosted URL](https://23rrd7-3000.csb.app/index.html)
+
 
 ---
 
